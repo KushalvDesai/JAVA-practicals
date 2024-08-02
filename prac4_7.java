@@ -3,7 +3,7 @@ public class prac4_7{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         sign stopSign = new sign();
-        System.out.print("chose circular sign or rectangular sign: ");
+        System.out.print("choose circular sign or rectangular sign: ");
         String choice = sc.nextLine();
         if(choice == "c"){
             stopSign.createCirc(sc.nextLine());
