@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.*;
 public class prac6_2{
     public static void main(String[] args) {
         char cmp = args[0].charAt(0);
