@@ -1,0 +1,2 @@
+this is a source text file
+im checking if multiple lines can be handled by java
